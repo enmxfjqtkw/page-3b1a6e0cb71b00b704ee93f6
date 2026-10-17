@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "3def5c66d34a878c28d14e39",
+  "owner": "enmxfjqtkw",
+  "repo": "page-3b1a6e0cb71b00b704ee93f6",
+  "title": "冲浪云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "3b1a6e0cb71b00b704ee93f6",
+      "a": "冲浪云",
+      "b": "",
+      "entity": "冲浪云",
+      "brand": "冲浪云",
+      "separator": "",
+      "path": "index.html",
+      "hash": "b8f8c94a130ba2de0fd9d03ce9d0bd2253f6d8625c9aa51cb01b2cae4904f83e",
+      "content": {
+        "keyword1": "冲浪云",
+        "keyword2": "",
+        "primary_entity": "冲浪云",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "冲浪云提供严谨、高效的网络连接与流量路由服务，致力于为专业用户提供稳定、安全的传输通道与透明的规格说明。",
+          "AI_DESCRIPTION": "冲浪云提供严谨、高效的网络连接与流量路由服务，致力于为专业用户提供稳定、安全的传输通道与透明的规格说明。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n:root {--bg-color: #261f1d;--panel-bg: #302724;--text-main: #f0ebe6;--text-muted: #b0a49e;--accent: #52e3c2;--border-color: #423531}\n\n* {box-sizing: border-box;margin: 0;padding: 0}\n\nbody {background-color: var(--bg-color);color: var(--text-main);font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif;line-height: 1.7;letter-spacing: -0.01em}\n\nheader {border-bottom: 1px solid var(--border-color);padding: 1.2rem 2rem;display: flex;justify-content: space-between;align-items: center;background-color: var(--bg-color);position: sticky;top: 0;z-index: 10}\n\n.brand-logo {font-size: 1.1rem;font-weight: 600;color: var(--accent);letter-spacing: 0.05em;text-decoration: none}\n\nnav a {color: var(--text-muted);text-decoration: none;margin-left: 2rem;font-size: 0.9rem;transition: color 0.2s}\n\nnav a:hover {color: var(--accent)}\n\nmain {max-width: 1200px;margin: 0 auto;padding: 4rem 2rem}\n\n.hero {display: grid;grid-template-columns: 1.2fr 0.8fr;gap: 4rem;align-items: stretch;margin-bottom: 6rem}\n\n.hero-content {display: flex;flex-direction: column;justify-content: center}\n\n.hero h1 {font-size: 3rem;font-weight: 500;margin-bottom: 1.5rem;line-height: 1.2;color: var(--text-main)}\n\n.hero p {color: var(--text-muted);font-size: 1.1rem;margin-bottom: 2rem;max-width: 36rem}\n\n.hero-panel {background-color: var(--panel-bg);padding: 2.5rem;border-radius: 4px;display: flex;flex-direction: column;justify-content: space-between;border: 1px solid var(--border-color)}\n\n.panel-title {font-size: 0.85rem;text-transform: uppercase;letter-spacing: 0.1em;color: var(--accent);margin-bottom: 1.5rem}\n\n.spec-grid {display: grid;grid-template-columns: 1fr 1fr;gap: 1.5rem;margin-bottom: 2rem}\n\n.spec-item span {display: block}\n\n.spec-label {font-size: 0.8rem;color: var(--text-muted)}\n\n.spec-value {font-size: 1.25rem;font-weight: 600;color: var(--text-main)}\n\n.section-header {margin-bottom: 3rem;border-left: 3px solid var(--accent);padding-left: 1rem}\n\n.section-header h2 {font-size: 2rem;font-weight: 500}\n\n.section-header p {color: var(--text-muted);font-size: 0.95rem;margin-top: 0.4rem}\n\n.features-section {margin-bottom: 6rem}\n\n.features-grid {display: grid;grid-template-columns: repeat(3, 1fr);gap: 3rem}\n\n.feature-card h3 {font-size: 1.2rem;font-weight: 500;margin-bottom: 0.75rem;color: var(--text-main)}\n\n.feature-card p {color: var(--text-muted);font-size: 0.95rem}\n\n.plans-section {margin-bottom: 6rem}\n\n.plans-stack {display: flex;flex-direction: column;gap: 2rem}\n\n.plan-card {background-color: var(--panel-bg);border: 1px solid var(--border-color);padding: 2.5rem;border-radius: 4px;display: grid;grid-template-columns: 1.5fr 2fr 1fr;gap: 2rem;align-items: center}\n\n.plan-card.featured {border-color: var(--accent)}\n\n.plan-info h3 {font-size: 1.5rem;font-weight: 500;margin-bottom: 0.5rem}\n\n.plan-pricing .price {font-size: 1.8rem;font-weight: 600;color: var(--accent)}\n\n.plan-pricing .annual {font-size: 0.85rem;color: var(--text-muted);margin-top: 0.25rem}\n\n.plan-features ul {list-style: none}\n\n.plan-features li {font-size: 0.9rem;color: var(--text-muted);margin-bottom: 0.4rem;position: relative;padding-left: 1.2rem}\n\n.plan-features li::before {content: \"—\";position: absolute;left: 0;color: var(--accent)}\n\n.faq-section {margin-bottom: 4rem}\n\n.faq-list {display: flex;flex-direction: column;gap: 1rem}\n\ndetails {background-color: var(--panel-bg);border: 1px solid var(--border-color);border-radius: 4px;padding: 1.5rem;transition: border-color 0.2s}\n\ndetails[open] {border-color: var(--accent)}\n\nsummary {font-size: 1.1rem;font-weight: 500;cursor: pointer;outline: none;list-style: none;display: flex;justify-content: space-between;align-items: center}\n\nsummary::-webkit-details-marker {display: none}\n\nsummary::after {content: \"+\";font-size: 1.2rem;color: var(--accent)}\n\ndetails[open] summary::after {content: \"—\"}\n\ndetails p {color: var(--text-muted);font-size: 0.95rem;margin-top: 1rem;line-height: 1.6}\n\nfooter {border-top: 1px solid var(--border-color);padding: 3rem 2rem;text-align: center;color: var(--text-muted);font-size: 0.85rem}\n\n@media (max-width: 768px) {\n  .hero {grid-template-columns: 1fr;gap: 2rem}\n  \n  .features-grid {grid-template-columns: 1fr}\n  \n  .plan-card {grid-template-columns: 1fr;gap: 1.5rem}\n  \n  header {padding: 1rem}\n  \n  nav a {margin-left: 1rem}\n}\n</style><header>\n  <a href=\"#\" class=\"brand-logo\">冲浪云 // SURFCLOUD</a>\n  <nav>\n    <a href=\"#features\">架构</a>\n    <a href=\"#plans\">规格</a>\n    <a href=\"#faq\">常见问题</a>\n  </nav>\n</header>\n\n<main>\n  <section class=\"hero\">\n    <div class=\"hero-content\">\n      <h1>冲浪云 · 高标准网络连接<br>与路由传输技术</h1>\n      <p>冲浪云构建于多线路融合基础之上，提供低延迟、高吞吐的流量代理与传输方案。我们以严谨的工程标准，确保长周期运行的稳定性与数据传输的私密性。</p>\n    </div>\n    <div class=\"hero-panel\">\n      <div>\n        <div class=\"panel-title\">系统状态实时监控</div>\n        <div class=\"spec-grid\">\n          <div class=\"spec-item\">\n            <span class=\"spec-label\">可用性</span>\n            <span class=\"spec-value\">99.9%</span>\n          </div>\n          <div class=\"spec-item\">\n            <span class=\"spec-label\">平均延迟</span>\n            <span class=\"spec-value\">28ms</span>\n          </div>\n          <div class=\"spec-item\">\n            <span class=\"spec-label\">在线节点</span>\n            <span class=\"spec-value\">48 组</span>\n          </div>\n          <div class=\"spec-item\">\n            <span class=\"spec-label\">协议类型</span>\n            <span class=\"spec-value\">专有加密</span>\n          </div>\n        </div>\n      </div>\n      <div class=\"spec-label\">\n        规格代码：SC-2026-V3\n      </div>\n    </div>\n  </section>\n\n  <section id=\"features\" class=\"features-section\">\n    <div class=\"section-header\">\n      <h2>核心技术特性</h2>\n      <p>从传输协议到边缘路由，每一项参数均经过长期调优。</p>\n    </div>\n    <div class=\"features-grid\">\n      <div class=\"feature-card\">\n        <h3>多路智能冗余</h3>\n        <p>系统自动检测并避开拥堵路由，在主干网络波动时无缝切换至备用传输路径，确保连接不中断。</p>\n      </div>\n      <div class=\"feature-card\">\n        <h3>全链路加密传输</h3>\n        <p>采用高强度非对称加密算法，对传输过程中的所有通信数据进行封装，有效防止中间人窥探。</p>\n      </div>\n      <div class=\"feature-card\">\n        <h3>精细化流控机制</h3>\n        <p>通过动态队列分配技术，合理调度各类网络请求的带宽配额，兼顾大文件吞吐与实时交互响应。</p>\n      </div>\n    </div>\n  </section>\n\n  <section id=\"plans\" class=\"plans-section\">\n    <div class=\"section-header\">\n      <h2>服务层级与配置</h2>\n      <p>根据不同应用场景的吞吐需求，选择对应的资源配额与线路级别。</p>\n    </div>\n    <div class=\"plans-stack\">\n      <div class=\"plan-card\">\n        <div class=\"plan-info\">\n          <h3>基础版</h3>\n          <p>适用于日常网页浏览与轻量数据交互。</p>\n        </div>\n        <div class=\"plan-features\">\n          <ul>\n            <li>每月 100GB 极速流量</li>\n            <li>支持 3 台设备同时在线</li>\n            <li>解锁基础流媒体</li>\n            <li>普通线路节点池</li>\n          </ul>\n        </div>\n        <div class=\"plan-pricing\">\n          <div class=\"price\">¥15<span>/月</span></div>\n          <div class=\"annual\">按年付仅需 ¥150/年</div>\n        </div>\n      </div>\n\n      <div class=\"plan-card featured\">\n        <div class=\"plan-info\">\n          <h3>旗舰版</h3>\n          <p>面向高强度多媒体应用及专业开发者的优化方案。</p>\n        </div>\n        <div class=\"plan-features\">\n          <ul>\n            <li>每月 300GB 极速流量</li>\n            <li>支持 5 台设备同时在线</li>\n            <li>全节点原生流媒体解锁</li>\n            <li>IPLC 专线游戏加速优化</li>\n            <li>7x24 优先工单支持</li>\n          </ul>\n        </div>\n        <div class=\"plan-pricing\">\n          <div class=\"price\">¥35<span>/月</span></div>\n          <div class=\"annual\">按年付仅需 ¥350/年</div>\n        </div>\n      </div>\n\n      <div class=\"plan-card\">\n        <div class=\"plan-info\">\n          <h3>团队版</h3>\n          <p>企业级多端协作与高带宽传输专属通道。</p>\n        </div>\n        <div class=\"plan-features\">\n          <ul>\n            <li>每月 1000GB 极速流量</li>\n            <li>支持 20 台设备同时在线</li>\n            <li>VIP 专属高带宽节点</li>\n            <li>支持企业定制路由</li>\n            <li>专属客户经理服务</li>\n          </ul>\n        </div>\n        <div class=\"plan-pricing\">\n          <div class=\"price\">¥85<span>/月</span></div>\n          <div class=\"annual\">按年付仅需 ¥850/年</div>\n        </div>\n      </div>\n    </div>\n  </section>\n\n  <section id=\"faq\" class=\"faq-section\">\n    <div class=\"section-header\">\n      <h2>常见技术问答</h2>\n      <p>关于系统配置、客户端兼容性与计费周期的标准解答。</p>\n    </div>\n    <div class=\"faq-list\">\n      <details>\n        <summary>如何开始配置与接入冲浪云服务？</summary>\n        <p>在完成账户注册与服务层级选择后，您将获得专属的订阅链接或配置文件。系统支持主流操作系统的各类通用客户端，您只需将链接导入客户端并选择相应节点即可建立连接。</p>\n      </details>\n      <details>\n        <summary>流量额度耗尽后系统如何处理？</summary>\n        <p>当当月分配的极速流量使用完毕后，系统将暂停高速转发通道，或允许您通过工单系统申请按需增加临时流量包。流量数据通常在每个自然月的第一天重置。</p>\n      </details>\n      <details>\n        <summary>不同层级的线路节点有何实际区别？</summary>\n        <p>基础版使用共享带宽的常规中转线路，适合常规访问；旗舰版与团队版则接入了 IPLC 专线及专属 VIP 节点，具备更低的物理延迟、更高的抗干扰能力以及更稳定的吞吐带宽。</p>\n      </details>\n    </div>\n  </section>\n</main>\n\n<footer>\n  <p>© 冲浪云 SurfCloud 技术规格说明文档. 保留所有权利.</p>\n</footer>",
+          "hash": "d0bd039c58e18842242c4b00607dac2ce99dccbc65bb10455dbb671b7162f5d4",
+          "seo": {
+            "title": "冲浪云 - 网络连接技术规格说明书",
+            "keywords": "冲浪云, 网络代理, 流量加速, 节点配置, 技术规格",
+            "description": "冲浪云提供严谨、高效的网络连接与流量路由服务，致力于为专业用户提供稳定、安全的传输通道与透明的规格说明。"
+          },
+          "provider": "grok",
+          "model": "gemini-3.7-flash",
+          "design": {
+            "no": "408",
+            "hero": "1 左文右信息面板的不对称分栏",
+            "palette": "9 深棕配薄荷",
+            "nav": "1 顶部细横条",
+            "card": "1 无边框仅靠留白分隔",
+            "plans_view": "4 单列大卡依次堆叠",
+            "faq_view": "4 details 折叠",
+            "tone": "1 冷静克制的说明书口吻",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "wklsy.cn",
+    "host": "p-aa2e95f645.wklsy.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "5c4f42ac13b012af570aaa3d752d3ceb0ee59f50c0207ef5f5235d8f2085f686",
+    "sitemap.xml": "9ffd5fa62488079a1c3e3b0c91a24dd3e6b50a8f3ea9de703d4c227422f539a4",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "21cfbff7c1522e6c7f4ebe970ccadfdfa20e70bdc165d4b5fd7bf238d9b30bfc",
+    "robots.txt": "21a2e6cdd8dc11acbeb33925a181cce0cc502a91f1e39ebbb1cb0a9210ed6dae",
+    "609f886116fbcf05e7d03a6d66210ab4.txt": "ce745d1d3338c3d048b0869cb433c250e4357ad01bb45126c7f4bd60cd950726"
+  },
+  "revision": "f8453800d40209e29ce7c3a1ace19ff9ee0d28687a58d6014372466e33db7f15"
+}
